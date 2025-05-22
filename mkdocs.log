@@ -1,0 +1,4 @@
+Usage: mkdocs serve [OPTIONS]
+Try 'mkdocs serve -h' for help.
+
+Error: No such option: -H
